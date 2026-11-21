@@ -121,8 +121,8 @@
           "path": "notebook/paclets/PendulumLab/dist/PendulumLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/PendulumLab/dist/PendulumLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/PendulumLab/dist/PendulumLab-0.1.0.paclet",
-          "sha256": "7f2daa3c125da759b1fd8469a0384964bc19c09e13dceefa215c660d235c9e1a",
-          "bytes": 390466,
+          "sha256": "d60e3d0f2e50712627f09ed2c524a33f20904705588a361b78501c3ede83cd3b",
+          "bytes": 390465,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -531,8 +531,8 @@
           "path": "notebook/paclets/DopplerVerificationLab/dist/DopplerVerificationLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/DopplerVerificationLab/dist/DopplerVerificationLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/DopplerVerificationLab/dist/DopplerVerificationLab-0.1.0.paclet",
-          "sha256": "1d26797ea5f80120a66f4deb755465d4fe0273f8fe9ffb8dc6148bc1bf6d995b",
-          "bytes": 42776,
+          "sha256": "226c10d80642777b053ea0f8bdf777f494017e0a56c142eaceb881f01810f9b6",
+          "bytes": 42775,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -948,8 +948,8 @@
           "path": "notebook/paclets/DopplerApplicationLab/dist/DopplerApplicationLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/DopplerApplicationLab/dist/DopplerApplicationLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/DopplerApplicationLab/dist/DopplerApplicationLab-0.1.0.paclet",
-          "sha256": "736a8e2a33f344f36150623e8e1b232fb3d5dfc7554b35a601f005040ec0ad6f",
-          "bytes": 48488,
+          "sha256": "a4b05b2f28b58c1259d31e850c8f4006bc8195355fac423c0dd579dae7e0f54c",
+          "bytes": 48487,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -1386,8 +1386,8 @@
           "path": "notebook/paclets/NewtonSecondLawLab/dist/NewtonSecondLawLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/NewtonSecondLawLab/dist/NewtonSecondLawLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/NewtonSecondLawLab/dist/NewtonSecondLawLab-0.1.0.paclet",
-          "sha256": "95ed75ce1aa4b64b76ce2011b9b369ab77fed7153424506110ca3226dd66661e",
-          "bytes": 53758,
+          "sha256": "00255adeb202f0ba646c14d8786dab650d38f878a582113329d7088e102f8324",
+          "bytes": 53757,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -1847,8 +1847,8 @@
           "path": "notebook/paclets/CollisionsLab/dist/CollisionsLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/CollisionsLab/dist/CollisionsLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/CollisionsLab/dist/CollisionsLab-0.1.0.paclet",
-          "sha256": "d6dc64053706696a9b08243f5a519ee097bfb3d4e7aa452910db284a0e744c01",
-          "bytes": 43347,
+          "sha256": "b7da42a70f09394ff1b1eaf9e16052e718e04d90c58de438c4a40bccc93f12e8",
+          "bytes": 43346,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -2287,8 +2287,8 @@
           "path": "notebook/paclets/MechanicalEquivalentHeatLab/dist/MechanicalEquivalentHeatLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/MechanicalEquivalentHeatLab/dist/MechanicalEquivalentHeatLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/MechanicalEquivalentHeatLab/dist/MechanicalEquivalentHeatLab-0.1.0.paclet",
-          "sha256": "0c153bdc1dc1d0b15bbb269ba383d25ec2d682d2a3cf2d131c69cd5d7b3cc87e",
-          "bytes": 49444,
+          "sha256": "c2af9a30efcef2b1190ce0a03d84d5815a194a37c41ddd44fddcdc7dd2a4217b",
+          "bytes": 49443,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -2708,8 +2708,8 @@
           "path": "notebook/paclets/DensityLab/dist/DensityLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/DensityLab/dist/DensityLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/DensityLab/dist/DensityLab-0.1.0.paclet",
-          "sha256": "de390ddcc96ddf81eb34c83120db0a8d68407374f07b3abcef44f03dd19d6401",
-          "bytes": 53143,
+          "sha256": "731fe95d9f5530104af9da459963b8aa7339e60e286a1cfc7e8b91343738aefb",
+          "bytes": 53142,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -3182,8 +3182,8 @@
           "path": "notebook/paclets/VaporizationHeatLab/dist/VaporizationHeatLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/VaporizationHeatLab/dist/VaporizationHeatLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/VaporizationHeatLab/dist/VaporizationHeatLab-0.1.0.paclet",
-          "sha256": "2191981b176af16aac42170a5506a5aac3fc256a6a38cde968d70f2250726ea6",
-          "bytes": 47269,
+          "sha256": "c93c03a457a26319444f34e48e664eeddeb38f7309860f62a1ac26fc8f9518d1",
+          "bytes": 47268,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -3638,8 +3638,8 @@
           "path": "notebook/paclets/SurfaceTensionLab/dist/SurfaceTensionLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/SurfaceTensionLab/dist/SurfaceTensionLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/SurfaceTensionLab/dist/SurfaceTensionLab-0.1.0.paclet",
-          "sha256": "58d683a1bf81a8280266d20b450c4464d4930a34024158d92702e382f82658c6",
-          "bytes": 49978,
+          "sha256": "a90950d5676adee3981ea06d1860f1343622dec22ab036f5db36163d2f36bbd5",
+          "bytes": 49977,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -4116,8 +4116,8 @@
           "path": "notebook/paclets/YoungModulusLab/dist/YoungModulusLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/YoungModulusLab/dist/YoungModulusLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/YoungModulusLab/dist/YoungModulusLab-0.1.0.paclet",
-          "sha256": "bbf0256eaf952413a39e154a68399d1e2f30f60196933eb29318ea18ea68d636",
-          "bytes": 47328,
+          "sha256": "fa5e1ea3e3945974aa8b7c32a32bfc0b383c4f85d707836284dd7d55ad8777df",
+          "bytes": 47327,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -4574,8 +4574,8 @@
           "path": "notebook/paclets/StringVibrationLab/dist/StringVibrationLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/StringVibrationLab/dist/StringVibrationLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/StringVibrationLab/dist/StringVibrationLab-0.1.0.paclet",
-          "sha256": "25150bd4eabd5ab7dcb99addeec2e5c13d07a06135fffa130d24f63584363bbb",
-          "bytes": 52239,
+          "sha256": "7a40b2d8b5ec831f459e2e2e927c0ef670d5adb2fcfa33926511c95c09f858c7",
+          "bytes": 52238,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -5033,8 +5033,8 @@
           "path": "notebook/paclets/SoundSpeedLab/dist/SoundSpeedLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/SoundSpeedLab/dist/SoundSpeedLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/SoundSpeedLab/dist/SoundSpeedLab-0.1.0.paclet",
-          "sha256": "91fbd4d36aae262fa8172a1bd8425d7fb3c2693113498bb262b92459caa0f63f",
-          "bytes": 43345,
+          "sha256": "b1b007ab0b2440256e98b80b787391909f56f7b358f36886803bfe64f27e9468",
+          "bytes": 43344,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -5519,8 +5519,8 @@
           "path": "notebook/paclets/MomentOfInertiaLab/dist/MomentOfInertiaLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/MomentOfInertiaLab/dist/MomentOfInertiaLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/MomentOfInertiaLab/dist/MomentOfInertiaLab-0.1.0.paclet",
-          "sha256": "6b5acf8c1037d633abd2f9a5e23b9b405a7af97d2e109c0ae3e9da98b816d82e",
-          "bytes": 46293,
+          "sha256": "62f8fc20d5536f45102e35b78998b292012bda4ff726e2d7de0b75a434130392",
+          "bytes": 46292,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -5969,8 +5969,8 @@
           "path": "notebook/paclets/ThermalExpansionLab/dist/ThermalExpansionLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/ThermalExpansionLab/dist/ThermalExpansionLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/ThermalExpansionLab/dist/ThermalExpansionLab-0.1.0.paclet",
-          "sha256": "dcd67baf05a8fd207933bf888d2bc351fe72043175f9e6f1a281c780c5a17a79",
-          "bytes": 46495,
+          "sha256": "e93708c07afd0208613265e5ddbb8dd88f87f678edbd83a5c57b963e9971faf6",
+          "bytes": 46494,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -6411,8 +6411,8 @@
           "path": "notebook/paclets/ThermalConductivityLab/dist/ThermalConductivityLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/ThermalConductivityLab/dist/ThermalConductivityLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/ThermalConductivityLab/dist/ThermalConductivityLab-0.1.0.paclet",
-          "sha256": "7335c98fb23845d0be3f1164561a98bba8d6f0c8d3b5deb848099d605220fe90",
-          "bytes": 51357,
+          "sha256": "6c179a831a3cc0c3d8a598216afd151d4247cfbef3cf0b2b96dd4f622b9c29ae",
+          "bytes": 51356,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -6876,8 +6876,8 @@
           "path": "notebook/paclets/LiquidViscosityLab/dist/LiquidViscosityLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/LiquidViscosityLab/dist/LiquidViscosityLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/LiquidViscosityLab/dist/LiquidViscosityLab-0.1.0.paclet",
-          "sha256": "c0b036f81727d6df9ea28d9c10d521454107fe27cf596ecff0a593300201d84f",
-          "bytes": 48252,
+          "sha256": "e5bf531563833451f50981bd805b508b831dc61e23f382cd48f9972225bebcc6",
+          "bytes": 48251,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -7358,8 +7358,8 @@
           "path": "notebook/paclets/PohlResonanceLab/dist/PohlResonanceLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/PohlResonanceLab/dist/PohlResonanceLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/PohlResonanceLab/dist/PohlResonanceLab-0.1.0.paclet",
-          "sha256": "1a4212c27820819617191c5cda21c475c654776b0c27a006fe2a62165632d062",
-          "bytes": 57596,
+          "sha256": "59c6d40e207d8ae9bce02f817d0a3909fe5def0568006fc3b10079a3d0430974",
+          "bytes": 57595,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -7831,8 +7831,8 @@
           "path": "notebook/paclets/InertialBalanceLab/dist/InertialBalanceLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/InertialBalanceLab/dist/InertialBalanceLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/InertialBalanceLab/dist/InertialBalanceLab-0.1.0.paclet",
-          "sha256": "13d2b21ef744b149bdd8ccf3ae9129a5ef061261b24edcec5ecb1a89b75f220a",
-          "bytes": 42899,
+          "sha256": "5d51b9c4f4ec25bed97377b3d9888d3341b57b51da4fa97eddd7dc6c3a9c2205",
+          "bytes": 42898,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -8278,8 +8278,8 @@
           "path": "notebook/paclets/MultimeterLab/dist/MultimeterLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/MultimeterLab/dist/MultimeterLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/MultimeterLab/dist/MultimeterLab-0.1.0.paclet",
-          "sha256": "087d48fd72a5c23b6b565343d1226cfdb8731b537d1d115d17756a6f83ddcff0",
-          "bytes": 67659,
+          "sha256": "658e86f3f326d3658b846c3e03c9663cade893c30388ef22b7acbf712e3cb0a9",
+          "bytes": 67658,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -8875,8 +8875,8 @@
           "path": "notebook/paclets/DividerCircuitsLab/dist/DividerCircuitsLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/DividerCircuitsLab/dist/DividerCircuitsLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/DividerCircuitsLab/dist/DividerCircuitsLab-0.1.0.paclet",
-          "sha256": "064b49fe7641e48c8018aae7e36e3d9a06318f8503f6ecd32f172230e2bd8bc4",
-          "bytes": 87432,
+          "sha256": "60fcb40dc0a428c8d7d48f3d5f4a8ffc017981d915f69c0255f28cdae097381e",
+          "bytes": 87431,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -9413,8 +9413,8 @@
           "path": "notebook/paclets/ElectrostaticFieldLab/dist/ElectrostaticFieldLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/ElectrostaticFieldLab/dist/ElectrostaticFieldLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/ElectrostaticFieldLab/dist/ElectrostaticFieldLab-0.1.0.paclet",
-          "sha256": "81a191e2ad9ffac262f01356bc41a9110e5af465029c0c83a332362493ab9b08",
-          "bytes": 124048,
+          "sha256": "c607a4b021d7d77d2ec71bcfe81be3d75b56d6aa75bcf18fd46f1cd2752cc562",
+          "bytes": 124047,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -9853,8 +9853,8 @@
           "path": "notebook/paclets/MeterCalibrationLab/dist/MeterCalibrationLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/MeterCalibrationLab/dist/MeterCalibrationLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/MeterCalibrationLab/dist/MeterCalibrationLab-0.1.0.paclet",
-          "sha256": "5c496e0ac829064b68d082f80adf6560047f93ea1b1e0453e6e677775e1955db",
-          "bytes": 71653,
+          "sha256": "8dadc1622fe188ea4b29b0f50dd3446cba665ed6ca125ca93f39a87d26286b15",
+          "bytes": 71652,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -10347,8 +10347,8 @@
           "path": "notebook/paclets/HallEffectLab/dist/HallEffectLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/HallEffectLab/dist/HallEffectLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/HallEffectLab/dist/HallEffectLab-0.1.0.paclet",
-          "sha256": "d79e4b8349d3f4f24bf6de7a1e0ba7c21781195296a17434aa0dc9daf456a187",
-          "bytes": 66623,
+          "sha256": "73a7ff65386204a1078456c9f42f5add8481a6c66586b8a159d809bbf75800f4",
+          "bytes": 66622,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -11457,8 +11457,8 @@
           "path": "notebook/paclets/ResistorIVLab/dist/ResistorIVLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/ResistorIVLab/dist/ResistorIVLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/ResistorIVLab/dist/ResistorIVLab-0.1.0.paclet",
-          "sha256": "a692c174ba2072748576bdce6e8f44c9be402e9af5fe318bfc426cb69e143163",
-          "bytes": 164470,
+          "sha256": "ea34ec726af026e2bf9d0f64d387e43a0996f7c1c4cd8cac3a3d296cdcaa6fec",
+          "bytes": 164469,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -12030,8 +12030,8 @@
           "path": "notebook/paclets/MagneticFieldLab/dist/MagneticFieldLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/MagneticFieldLab/dist/MagneticFieldLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/MagneticFieldLab/dist/MagneticFieldLab-0.1.0.paclet",
-          "sha256": "e8bcbe9836e97d2588a238b91a02ce42d0e595f6f7b8f22533bf0a4217557ae6",
-          "bytes": 57146,
+          "sha256": "a0c7df3b239092e2c8b2e8575f8c1f88f1431a7db8cf11ec375e83e7243fa59d",
+          "bytes": 57145,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -12491,8 +12491,8 @@
           "path": "notebook/paclets/OscilloscopeLab/dist/OscilloscopeLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/OscilloscopeLab/dist/OscilloscopeLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/OscilloscopeLab/dist/OscilloscopeLab-0.1.0.paclet",
-          "sha256": "8245815df6f0a09b8761093ba65d03053284252ed31f276a10f51ecfc0a6e773",
-          "bytes": 316887,
+          "sha256": "2b314b75c778b2973841085d0990755df953bfdc4bd65c6724a315334d0fb2a6",
+          "bytes": 316886,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -13035,8 +13035,8 @@
           "path": "notebook/paclets/WheatstoneBridgeLab/dist/WheatstoneBridgeLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/WheatstoneBridgeLab/dist/WheatstoneBridgeLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/WheatstoneBridgeLab/dist/WheatstoneBridgeLab-0.1.0.paclet",
-          "sha256": "78768dfb2d4174606faeceb78ed3b5e129ab660e9788f915c92f953f9274a96a",
-          "bytes": 68001,
+          "sha256": "2fb8ffd15b287c799ee89bdbf2d909e5ce9878fa1b1fa519aa3a353455b41428",
+          "bytes": 68000,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -13515,8 +13515,8 @@
           "path": "notebook/paclets/KelvinBridgeLab/dist/KelvinBridgeLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/KelvinBridgeLab/dist/KelvinBridgeLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/KelvinBridgeLab/dist/KelvinBridgeLab-0.1.0.paclet",
-          "sha256": "1e7baa5a6443dedaaa74a6d4834cf3ec38e3774fd61a24d78c124c510ccbd30d",
-          "bytes": 49981,
+          "sha256": "5c76a218ecf9216ef9dd93667f54af17a203964cc2443bede44a0d0d2ad2b4db",
+          "bytes": 49980,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -13997,8 +13997,8 @@
           "path": "notebook/paclets/RLCResonanceLab/dist/RLCResonanceLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/RLCResonanceLab/dist/RLCResonanceLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/RLCResonanceLab/dist/RLCResonanceLab-0.1.0.paclet",
-          "sha256": "a76167ae91a392aeac092e3446005e692f95a16289007445ebf9d2cb0e4cb118",
-          "bytes": 105030,
+          "sha256": "81162b5b1bd1647842877264faed30b0c83cf4ca8562ed8d10464588a26c6051",
+          "bytes": 105029,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -14627,8 +14627,8 @@
           "path": "notebook/paclets/ACBridgeLab/dist/ACBridgeLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/ACBridgeLab/dist/ACBridgeLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/ACBridgeLab/dist/ACBridgeLab-0.1.0.paclet",
-          "sha256": "bd65c620c25e7c5c8abfa03c7ceb19f97267fd4630d9c6025032b1593deb19b3",
-          "bytes": 43807,
+          "sha256": "cbd54c25177fe7b094e849409fdf494b364c68c6df8ae017213e6ff0928d9a21",
+          "bytes": 43806,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -15162,8 +15162,8 @@
           "path": "notebook/paclets/PhotosensorLab/dist/PhotosensorLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/PhotosensorLab/dist/PhotosensorLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/PhotosensorLab/dist/PhotosensorLab-0.1.0.paclet",
-          "sha256": "7959e75d25cb05073e80408e12a3ad912adb5d2dcb7d86bb2909b14c5dd866d9",
-          "bytes": 92807,
+          "sha256": "074605597ec883174516b0a82f90b7f4e6262a33800e8909052b773e9837b299",
+          "bytes": 92806,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -15661,8 +15661,8 @@
           "path": "notebook/paclets/SpectrometerLab/dist/SpectrometerLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/SpectrometerLab/dist/SpectrometerLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/SpectrometerLab/dist/SpectrometerLab-0.1.0.paclet",
-          "sha256": "6effa311b9acf122ecb5ef0a118933cf073dd1f8bc155f3efaded53cc70c72d6",
-          "bytes": 36205,
+          "sha256": "431fc64192ac8b24c7514775b35c474edacf7870cf474a84a5d18a7bfcce139d",
+          "bytes": 36204,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -16089,8 +16089,8 @@
           "path": "notebook/paclets/PrismApexLab/dist/PrismApexLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/PrismApexLab/dist/PrismApexLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/PrismApexLab/dist/PrismApexLab-0.1.0.paclet",
-          "sha256": "a0a7c423a4cc61dabaec200a0c4ebf5ddf03270838f028146cd084dcb1699f6d",
-          "bytes": 33919,
+          "sha256": "80765f1ccbb4f935e3120d95f88fcdf30602bbeae834086f349604c5b99f2d6a",
+          "bytes": 33918,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -16498,8 +16498,8 @@
           "path": "notebook/paclets/PrismRefractiveIndexLab/dist/PrismRefractiveIndexLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/PrismRefractiveIndexLab/dist/PrismRefractiveIndexLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/PrismRefractiveIndexLab/dist/PrismRefractiveIndexLab-0.1.0.paclet",
-          "sha256": "538d2ef4c75ed3051d9bf586b85c7f054032a40db493ed23a3319b19ece18f91",
-          "bytes": 36144,
+          "sha256": "fa81f9cf25e46afbd21a0472e783bc25261fdf8abdf8ed1c6366a65c63b9863d",
+          "bytes": 36143,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -16917,8 +16917,8 @@
           "path": "notebook/paclets/GrazingRefractionLab/dist/GrazingRefractionLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/GrazingRefractionLab/dist/GrazingRefractionLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/GrazingRefractionLab/dist/GrazingRefractionLab-0.1.0.paclet",
-          "sha256": "013fdb62d7d5cf3b4b03ed0efe7fc02d0748b9c3277e425ba446627e5db3a99b",
-          "bytes": 36365,
+          "sha256": "1eb8c74f31f09f3c70c4b5407a3b12463236c897729b8b9bcf0c0c7247191954",
+          "bytes": 36364,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -17338,8 +17338,8 @@
           "path": "notebook/paclets/TransmissionGratingLab/dist/TransmissionGratingLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/TransmissionGratingLab/dist/TransmissionGratingLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/TransmissionGratingLab/dist/TransmissionGratingLab-0.1.0.paclet",
-          "sha256": "ba016e2ea7dbe7b091bf76d5f0a4678743641457678897e55071cb5519ce6c9f",
-          "bytes": 42972,
+          "sha256": "6cfa89277ad424592258fce5c555e5ff9d404b593339dc655a1aa3796f214320",
+          "bytes": 42971,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -17867,8 +17867,8 @@
           "path": "notebook/paclets/OpticalMagnificationLab/dist/OpticalMagnificationLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/OpticalMagnificationLab/dist/OpticalMagnificationLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/OpticalMagnificationLab/dist/OpticalMagnificationLab-0.1.0.paclet",
-          "sha256": "f620098690a812e5fac5f60c15c6eb6dab8f6769ee84fa05714e9101587ac44a",
-          "bytes": 37706,
+          "sha256": "bac990e8a88ce8383c8030a7534d58fb34fb6a926783ee480af79271067d3f32",
+          "bytes": 37705,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -18347,8 +18347,8 @@
           "path": "notebook/paclets/NewtonRingsLab/dist/NewtonRingsLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/NewtonRingsLab/dist/NewtonRingsLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/NewtonRingsLab/dist/NewtonRingsLab-0.1.0.paclet",
-          "sha256": "4095c99fcdb318ff8848462a362605c84d8329a100354f684432c18674c3a04c",
-          "bytes": 57374,
+          "sha256": "97215c5781797ef4181efef0181778a4c9ef5d76f9da0096020c60362c69fc3b",
+          "bytes": 57373,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -18797,8 +18797,8 @@
           "path": "notebook/paclets/MichelsonInterferometerLab/dist/MichelsonInterferometerLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/MichelsonInterferometerLab/dist/MichelsonInterferometerLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/MichelsonInterferometerLab/dist/MichelsonInterferometerLab-0.1.0.paclet",
-          "sha256": "08e39fd8d7b13c2ff8bf9feec149d618f4b6336942ffae0c00c258fb0342bd98",
-          "bytes": 32975,
+          "sha256": "6fb71c308d3a576280a7f0f5ae05e35387ebc50270cf0c57c0d3efc8849ab3eb",
+          "bytes": 32974,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -19193,8 +19193,8 @@
           "path": "notebook/paclets/ThinLensLab/dist/ThinLensLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/ThinLensLab/dist/ThinLensLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/ThinLensLab/dist/ThinLensLab-0.1.0.paclet",
-          "sha256": "fef51b96b56ee4f5352f9827f3bedf0b9bffdf97f04c868c0101a361ad77ae8e",
-          "bytes": 48531,
+          "sha256": "2d8ea1b7204f39ad0418a48ce6b21e84afb1f3fed41fbcd542dce65fefdc6b6a",
+          "bytes": 48530,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -19673,8 +19673,8 @@
           "path": "notebook/paclets/PolarizationLab/dist/PolarizationLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/PolarizationLab/dist/PolarizationLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/PolarizationLab/dist/PolarizationLab-0.1.0.paclet",
-          "sha256": "80f920a8bf3ad3c797a3c2a6f3ef424bf4a0c757be9cf161423b7e26efd2d101",
-          "bytes": 43986,
+          "sha256": "10834a3c92d674ccb44eaa120e5f8c0ff011edc4ad10112a691d40921e91eeab",
+          "bytes": 43985,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -20110,8 +20110,8 @@
           "path": "notebook/paclets/OpticalRotationLab/dist/OpticalRotationLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/OpticalRotationLab/dist/OpticalRotationLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/OpticalRotationLab/dist/OpticalRotationLab-0.1.0.paclet",
-          "sha256": "8e28d7bbc83aa831111436a1643e2ed4f8e8a4427f4bbbab6e3551495f89bbe8",
-          "bytes": 35443,
+          "sha256": "f6efa1b6b0565229eed14e03de63ebc21b8cd7fd7d767a517564679103cf47b9",
+          "bytes": 35442,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -20518,8 +20518,8 @@
           "path": "notebook/paclets/SingleSlitDiffractionLab/dist/SingleSlitDiffractionLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/SingleSlitDiffractionLab/dist/SingleSlitDiffractionLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/SingleSlitDiffractionLab/dist/SingleSlitDiffractionLab-0.1.0.paclet",
-          "sha256": "055ef8132c73245c1700b9148d8e1be2f76c0f9e5dbec4e6eae9fea8ebdb2c3d",
-          "bytes": 111343,
+          "sha256": "9f02003cfe11e016e38bbf917b7f0bea4c4213fa319679447ae4ef088ba7f667",
+          "bytes": 111342,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -20938,8 +20938,8 @@
           "path": "notebook/paclets/AbbeImagingLab/dist/AbbeImagingLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/AbbeImagingLab/dist/AbbeImagingLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/AbbeImagingLab/dist/AbbeImagingLab-0.1.0.paclet",
-          "sha256": "daee311856d59cbc9825ca69818f05750ae01b592d9d66a03eaa3857b7cd9b7d",
-          "bytes": 42062,
+          "sha256": "efd0abe90b2154f19621e05545d2fed5ee24b49d2d37d324b372dbc3a6caae9c",
+          "bytes": 42061,
           "hash_basis": "raw-bytes"
         },
         "config": {
@@ -21390,8 +21390,8 @@
           "path": "notebook/paclets/HolographyLab/dist/HolographyLab-0.1.0.paclet",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/notebook/paclets/HolographyLab/dist/HolographyLab-0.1.0.paclet",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/notebook/paclets/HolographyLab/dist/HolographyLab-0.1.0.paclet",
-          "sha256": "9171cd852d2c0cd8a43c594c876182eb07da58dc608e2b0dceb6252db0d50433",
-          "bytes": 43620,
+          "sha256": "25368cae191ddfc09ca602fb61b02db54f75fa749eb218ab672b951a0f670f15",
+          "bytes": 43619,
           "hash_basis": "raw-bytes"
         },
         "config": {
