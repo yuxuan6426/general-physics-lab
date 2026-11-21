@@ -71,7 +71,7 @@
           "path": "experiments/course-01/pendulum/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-01/pendulum/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-01/pendulum/README.md",
-          "sha256": "f0dc6dcb4f73dad1cb655a34c8c678ccbccfc55733b86294e557290b028e33db",
+          "sha256": "cf68076e578351a9ee82e47e56b5f24fdd326cb1c4023c1fc0bfd288436d12dc",
           "bytes": 6877,
           "hash_basis": "utf8-lf"
         },
@@ -481,7 +481,7 @@
           "path": "experiments/course-01/doppler-verification/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-01/doppler-verification/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-01/doppler-verification/README.md",
-          "sha256": "42e3308ddc009396043f165c3fe0d17dd8f9c0464b26655ed8a60527f7ceaa50",
+          "sha256": "92d55a8343f35de42ddf8dd06ea3b93b1517715ff85586f95e490fa4f703b9dc",
           "bytes": 4877,
           "hash_basis": "utf8-lf"
         },
@@ -898,7 +898,7 @@
           "path": "experiments/course-01/doppler-application/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-01/doppler-application/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-01/doppler-application/README.md",
-          "sha256": "62337ee69d543b7e5dc49edbed274ef09400754a0adcae397ddcdc40de52a8a6",
+          "sha256": "eb1673276d9f6d3d42d7fcec78a0b204510084f6523673c6bc3daa2871a0a952",
           "bytes": 5162,
           "hash_basis": "utf8-lf"
         },
@@ -1336,7 +1336,7 @@
           "path": "experiments/course-01/newton-second-law/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-01/newton-second-law/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-01/newton-second-law/README.md",
-          "sha256": "4e4f1cd4a40250871a7e2a172fe036b3fc1a99ceaba091928fbedbba57a8b349",
+          "sha256": "1685efc478684c52bda8cd3808835078b58940ef96bef7c5e8b1eeccf9e8efbf",
           "bytes": 5053,
           "hash_basis": "utf8-lf"
         },
@@ -1797,7 +1797,7 @@
           "path": "experiments/course-01/collisions/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-01/collisions/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-01/collisions/README.md",
-          "sha256": "0abde79761b0ca82f7652ca6bbd87773542d760f5317844cbfd4fa37d2054061",
+          "sha256": "e621ff6473c5fc1cc810b950e66ec496b19fc8160f5ffb5c2f397139f78f43a1",
           "bytes": 5014,
           "hash_basis": "utf8-lf"
         },
@@ -2237,7 +2237,7 @@
           "path": "experiments/course-01/mechanical-equivalent-heat/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-01/mechanical-equivalent-heat/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-01/mechanical-equivalent-heat/README.md",
-          "sha256": "ea3261d594792e39bbb7593b5507888150d71b8b91557cc3ee56606e1496dbc4",
+          "sha256": "42d9c4ef41f321119b79c67f940263d5d61b9603ec365d1d5b1c4e60f67a9b43",
           "bytes": 5081,
           "hash_basis": "utf8-lf"
         },
@@ -2658,7 +2658,7 @@
           "path": "experiments/course-01/density/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-01/density/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-01/density/README.md",
-          "sha256": "d2a11a091a23f3de25dae88d8c8e22f9572a41e0a731ba3efd00fbefbe14b634",
+          "sha256": "7eaf6a6a3dfd571e14bc2070342cb8ca6b706a47f739e6baae031bb092e1fc5c",
           "bytes": 5554,
           "hash_basis": "utf8-lf"
         },
@@ -3132,7 +3132,7 @@
           "path": "experiments/course-01/vaporization-heat/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-01/vaporization-heat/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-01/vaporization-heat/README.md",
-          "sha256": "57e47c78dc510766eac6b853b934c1148488b826c91955daee1da7bf4380c95a",
+          "sha256": "e927a5ccf91cd637229c7ae46daa86df369d5b5b584659dc2eaabd0425a749fa",
           "bytes": 5192,
           "hash_basis": "utf8-lf"
         },
@@ -3588,7 +3588,7 @@
           "path": "experiments/course-02/surface-tension/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/surface-tension/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/surface-tension/README.md",
-          "sha256": "a0c6386264270130521015f47b4e6a4522ab36354b94af6a3e10c839b1108d5f",
+          "sha256": "3208c43ed238ad4cd8a50b8b5d7008692816ef9a907909159e3f622e335e29a5",
           "bytes": 5252,
           "hash_basis": "utf8-lf"
         },
@@ -4066,7 +4066,7 @@
           "path": "experiments/course-02/young-modulus/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/young-modulus/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/young-modulus/README.md",
-          "sha256": "336a24f4764f3a1fccfca222bcee54dadfac2af8015733bf76be3ed2eaf6d5ef",
+          "sha256": "0a477b9a801bc34950baf7a54fa74b560d43d2715a2fa7785bcf748e98d4845e",
           "bytes": 5046,
           "hash_basis": "utf8-lf"
         },
@@ -4524,7 +4524,7 @@
           "path": "experiments/course-02/string-vibration/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/string-vibration/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/string-vibration/README.md",
-          "sha256": "07de390a41577975d6d404cb2599dad4be1be757041796677b3a23bb90254fae",
+          "sha256": "7f0bc598354bc4196f485ecfff0c3277813ff591c52fa16ea69529ab0619b56b",
           "bytes": 5208,
           "hash_basis": "utf8-lf"
         },
@@ -4983,7 +4983,7 @@
           "path": "experiments/course-02/sound-speed/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/sound-speed/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/sound-speed/README.md",
-          "sha256": "d74eef2843f5e37b913491947b565cef35bdea620af974e0657b7f3371147b54",
+          "sha256": "da24d177fba49d82377478a82b54293fb1d45719685a15fc8d8ac3829ffe8304",
           "bytes": 4850,
           "hash_basis": "utf8-lf"
         },
@@ -5469,7 +5469,7 @@
           "path": "experiments/course-02/moment-of-inertia/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/moment-of-inertia/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/moment-of-inertia/README.md",
-          "sha256": "5df4d569fe83040a2ccfd0566bf44617ecd3eb010b137fb2b409374a8583780a",
+          "sha256": "b53a83428dde35d4bb21a04e2fab50918b553a326c2160886b2cf9186d8a8f70",
           "bytes": 5018,
           "hash_basis": "utf8-lf"
         },
@@ -5919,7 +5919,7 @@
           "path": "experiments/course-02/thermal-expansion/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/thermal-expansion/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/thermal-expansion/README.md",
-          "sha256": "5a3b81b24fd8b902f76672c8a0cedf96b0f9f9552a4fb4df7151cb712eb01f64",
+          "sha256": "0c7abbedc8783692af059331fb633255fbb390ef9987be9347a944d3e62b7525",
           "bytes": 5091,
           "hash_basis": "utf8-lf"
         },
@@ -6361,7 +6361,7 @@
           "path": "experiments/course-02/thermal-conductivity/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/thermal-conductivity/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/thermal-conductivity/README.md",
-          "sha256": "dd6fcc60e7458147fe5d36a4bc4693bbb02d48090c514bd5816789fdbd967128",
+          "sha256": "27a0bc41b00db1d365dc5571fac29828a54603712eb56271e9d998f2b26a4675",
           "bytes": 5415,
           "hash_basis": "utf8-lf"
         },
@@ -6826,7 +6826,7 @@
           "path": "experiments/course-02/liquid-viscosity/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/liquid-viscosity/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/liquid-viscosity/README.md",
-          "sha256": "d55444909293f7432e6a79268ec7bcd96536bc768921b833b492b15463092942",
+          "sha256": "c6d977e1d85fb5a8dd15e6387310b1b51b04f22fd2a891b86e69e798cc9418cf",
           "bytes": 5189,
           "hash_basis": "utf8-lf"
         },
@@ -7308,7 +7308,7 @@
           "path": "experiments/course-02/pohl-resonance/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/pohl-resonance/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/pohl-resonance/README.md",
-          "sha256": "e31a1126455105b377c0a2eae57420ade033d361e7da29b9a99b7ded7ec3f35e",
+          "sha256": "10dbe1a85516cafecfea4d762df8d85b52088f5fa9ced852ccce9f67a9d82035",
           "bytes": 5883,
           "hash_basis": "utf8-lf"
         },
@@ -7781,7 +7781,7 @@
           "path": "experiments/course-02/inertial-balance/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-02/inertial-balance/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-02/inertial-balance/README.md",
-          "sha256": "443bd12a548a9f9a54ea5e3d237451c571a9047b74830184a64af7c33754d3d0",
+          "sha256": "6d5a68d313ed322acf3c85cf5ddc479c52b0251d7ba13f77e3a76a14cd5c9542",
           "bytes": 4992,
           "hash_basis": "utf8-lf"
         },
@@ -8228,7 +8228,7 @@
           "path": "experiments/course-03/multimeter/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/multimeter/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/multimeter/README.md",
-          "sha256": "617e46662047d1f58f27f382da5ffd87a1d13e6d22b7a272ae3cd84c3802cb76",
+          "sha256": "6a439be301a6bbc4cd5f30358371a0de610da899f6e7b6bab4c9bacbe6c29ceb",
           "bytes": 6333,
           "hash_basis": "utf8-lf"
         },
@@ -8825,7 +8825,7 @@
           "path": "experiments/course-03/current-voltage-divider/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/current-voltage-divider/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/current-voltage-divider/README.md",
-          "sha256": "e543e2202b48b6096df662dffa0036f6c1ad61996a41953883af35c8a7e66cad",
+          "sha256": "5328a1389dd75b897f17c5771a9c417d648d05a40f1a13b529ef66d80fafc35d",
           "bytes": 6161,
           "hash_basis": "utf8-lf"
         },
@@ -9363,7 +9363,7 @@
           "path": "experiments/course-03/electrostatic-field/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/electrostatic-field/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/electrostatic-field/README.md",
-          "sha256": "7da1eaa64f0362ad50afc65dd230905726a8bb1115aa92e68ed11b5431d46247",
+          "sha256": "35d7a2179254fa81594f032435e86dcc8a14b5a0819a24a1d7c0b9ab7217371f",
           "bytes": 6303,
           "hash_basis": "utf8-lf"
         },
@@ -9803,7 +9803,7 @@
           "path": "experiments/course-03/meter-calibration/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/meter-calibration/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/meter-calibration/README.md",
-          "sha256": "2c4839a61bc87aa263a0739e162d3044d3bad182229da40e689fb8bca533a29b",
+          "sha256": "2ddbb5f7fc8d5147f6727a9da55df8fc573d4a9101320264ee1fa59a9e7cfc58",
           "bytes": 6299,
           "hash_basis": "utf8-lf"
         },
@@ -10297,7 +10297,7 @@
           "path": "experiments/course-03/hall-effect/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/hall-effect/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/hall-effect/README.md",
-          "sha256": "85cdc2af5cd52c2ad0c14aff2b2e442d74177295cc67943725e9a1392c7eac61",
+          "sha256": "bc1ac475dca1b0f0c6237873309c28f96ba76f18b5a13c7f9b89a93b6fa7ee06",
           "bytes": 6277,
           "hash_basis": "utf8-lf"
         },
@@ -11407,7 +11407,7 @@
           "path": "experiments/course-03/resistor-iv/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/resistor-iv/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/resistor-iv/README.md",
-          "sha256": "b6ea346023c76ec5e605c674f0d47f1ba6c5466db0427ea453d73e333ef6d101",
+          "sha256": "398c76017b61bea8b1f8cde79f2bcf3b0d94a0efa2b266823419a3d4a8cea6ae",
           "bytes": 6317,
           "hash_basis": "utf8-lf"
         },
@@ -11980,7 +11980,7 @@
           "path": "experiments/course-03/magnetic-field/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/magnetic-field/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/magnetic-field/README.md",
-          "sha256": "c8ce1eaafd54b234f6b64659c1f8563e56fcd29f0651db1d6a0fb4d80537f9a4",
+          "sha256": "266e7dc16cb4b4c5e5a4ff684cfb810df8aeaf90a8a7845fbc9b63d07b19d2cd",
           "bytes": 6164,
           "hash_basis": "utf8-lf"
         },
@@ -12441,7 +12441,7 @@
           "path": "experiments/course-03/oscilloscope/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/oscilloscope/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/oscilloscope/README.md",
-          "sha256": "6e5191ca2c0919973b4a2a19de66b495c6d6c34c8a87fc5f68bfce531af45a8c",
+          "sha256": "069582528678cd3e9b5f8176d44e13b3476e998d151c039792d5cb8389039f3b",
           "bytes": 6350,
           "hash_basis": "utf8-lf"
         },
@@ -12985,7 +12985,7 @@
           "path": "experiments/course-03/wheatstone-bridge/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/wheatstone-bridge/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/wheatstone-bridge/README.md",
-          "sha256": "8654c4b1f92c1661deae115f2a7f904d49859914937f4264020c917e6901f79b",
+          "sha256": "1fea8ef3e3c6316609e14b5952fb174e381da1474d06d7b5066b122e3767b9e5",
           "bytes": 6074,
           "hash_basis": "utf8-lf"
         },
@@ -13465,7 +13465,7 @@
           "path": "experiments/course-03/kelvin-bridge/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/kelvin-bridge/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/kelvin-bridge/README.md",
-          "sha256": "799e44e04d8a8cda31b0679cc1aff0a4ac90e676d4302dddab81d0e970a76c43",
+          "sha256": "22dab74194ebc6b0724fc443f27d698d77a33e9eca6da83cf862c9c8bec7448b",
           "bytes": 6000,
           "hash_basis": "utf8-lf"
         },
@@ -13947,7 +13947,7 @@
           "path": "experiments/course-03/rlc-resonance/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/rlc-resonance/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/rlc-resonance/README.md",
-          "sha256": "2705011f2589c7dba4301eb8a21889b327f49b663ef886750600297b89eb516c",
+          "sha256": "214710d8953198dcdc31719512a45a358200554672451b6684e2ae0748d6aa21",
           "bytes": 6206,
           "hash_basis": "utf8-lf"
         },
@@ -14577,7 +14577,7 @@
           "path": "experiments/course-03/ac-bridge/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/ac-bridge/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/ac-bridge/README.md",
-          "sha256": "53c33c75de189beb14a749fef57f0d275119b11e200f8b00d9e1e3f88f328287",
+          "sha256": "c978e51c6036237e47723164494d86f44deba1c8e0e4a54f424f726eda28edf1",
           "bytes": 5835,
           "hash_basis": "utf8-lf"
         },
@@ -15112,7 +15112,7 @@
           "path": "experiments/course-03/photosensor/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-03/photosensor/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-03/photosensor/README.md",
-          "sha256": "5a3eaf227155d3bae61ed23cebc6ae1e5a0308d093d23732326c08fae8a1f129",
+          "sha256": "747f286b94a334d2f5401ffbce09b8eee0c4c6a1be1dae927ec0cf768b91c192",
           "bytes": 6387,
           "hash_basis": "utf8-lf"
         },
@@ -15611,7 +15611,7 @@
           "path": "experiments/course-04/spectrometer/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/spectrometer/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/spectrometer/README.md",
-          "sha256": "ce7f1a852ebd18f77aaac4e08253947a6db71dc5d2b41695c4a5d5f17638712c",
+          "sha256": "06ff5527114c214efabca4119bef16800f3881a26c8639ddee76f995b0c5e2ad",
           "bytes": 5388,
           "hash_basis": "utf8-lf"
         },
@@ -16039,7 +16039,7 @@
           "path": "experiments/course-04/prism-apex/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/prism-apex/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/prism-apex/README.md",
-          "sha256": "ca2fafd4e732a2fb97a3f4fa2ed10da8366e94c955ecf789b156f9185410acc4",
+          "sha256": "29fd474ac0c2fcfd7b30bd80ffaf9cc505fba9e28c5e7b1fa72a377e922b3972",
           "bytes": 5087,
           "hash_basis": "utf8-lf"
         },
@@ -16448,7 +16448,7 @@
           "path": "experiments/course-04/prism-refractive-index/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/prism-refractive-index/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/prism-refractive-index/README.md",
-          "sha256": "fd92ee698598a04187babd864cbbb60a4b543792aa12e69206516a3e9b2b06bc",
+          "sha256": "afe4e843288286c3b13c67a522c2749b286a3f847c8ad883c9d3732885a59b15",
           "bytes": 5340,
           "hash_basis": "utf8-lf"
         },
@@ -16867,7 +16867,7 @@
           "path": "experiments/course-04/grazing-refraction/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/grazing-refraction/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/grazing-refraction/README.md",
-          "sha256": "2f343014aeb7ac694b680b844a1ff4cd8b56055414682c61f29d499413832e0c",
+          "sha256": "8700701ab888b8d0711fb02c6abd123969bd6c481f255e05cc406396e4f22a65",
           "bytes": 5362,
           "hash_basis": "utf8-lf"
         },
@@ -17288,7 +17288,7 @@
           "path": "experiments/course-04/transmission-grating/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/transmission-grating/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/transmission-grating/README.md",
-          "sha256": "a142c0b8767c78f9a1cdfc8d3b8bfd8f063e83109a605f740428d25a34ac3ecf",
+          "sha256": "c7fd2ec921e0d82445a083c20e342dfe1bcc75b1ed51b6e382121772fa9ebc3b",
           "bytes": 5642,
           "hash_basis": "utf8-lf"
         },
@@ -17817,7 +17817,7 @@
           "path": "experiments/course-04/optical-magnification/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/optical-magnification/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/optical-magnification/README.md",
-          "sha256": "1adf06228daeacdf70982dc1af4cd8efd5abb76b89783e0ffce066a8480c0c76",
+          "sha256": "d5a311ff28f7708412f07fe55bc47fb3c2cb99b7adf28ce2f36c64fe8445d682",
           "bytes": 5576,
           "hash_basis": "utf8-lf"
         },
@@ -18297,7 +18297,7 @@
           "path": "experiments/course-04/newton-rings/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/newton-rings/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/newton-rings/README.md",
-          "sha256": "517450cd10972280f0ee505fe8b2e45997bfddd51b1f2cf3ebb35f476fdabe4a",
+          "sha256": "bfd3aa3c872c0eb95483b06088b96f562f073a9d2985728988a6f5cb923eae34",
           "bytes": 5957,
           "hash_basis": "utf8-lf"
         },
@@ -18747,7 +18747,7 @@
           "path": "experiments/course-04/michelson-interferometer/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/michelson-interferometer/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/michelson-interferometer/README.md",
-          "sha256": "9eb58b1134a0f2da7f0ba9069e2537d362b87e2c74aaabe708d228949d8bdb50",
+          "sha256": "72361b799f9b665d68c45a583be197782c720e5a9051da4e7ff4d3e73d53cb3d",
           "bytes": 5423,
           "hash_basis": "utf8-lf"
         },
@@ -19143,7 +19143,7 @@
           "path": "experiments/course-04/thin-lens/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/thin-lens/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/thin-lens/README.md",
-          "sha256": "8c8fd6d4c584a005e5b7a4abd6f8a1a0a6d93cfe0e1680af360e699c09b316ea",
+          "sha256": "ee41c307d012be5a016db1d2a7e0ed7edfec0b9ef8c4e2e8e3084e147ddc5dc1",
           "bytes": 6070,
           "hash_basis": "utf8-lf"
         },
@@ -19623,7 +19623,7 @@
           "path": "experiments/course-04/polarization/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/polarization/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/polarization/README.md",
-          "sha256": "319812ac7770eb411d8a429e80347955a354c21ebb2def41ece67da149efa091",
+          "sha256": "90df4e075bc70c98329fa8d62846d9083e8d0d989048579dfe7d5f110356697c",
           "bytes": 5387,
           "hash_basis": "utf8-lf"
         },
@@ -20060,7 +20060,7 @@
           "path": "experiments/course-04/optical-rotation/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/optical-rotation/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/optical-rotation/README.md",
-          "sha256": "a772e0a913dd1ff508fe64b0873e7f04167f94dd098b8e84bffb254dc154989c",
+          "sha256": "2b0a06f8f5eb2a0bec7e8ac1d8a97052c7b26b9f945b8098e9caa6733d22aea1",
           "bytes": 5518,
           "hash_basis": "utf8-lf"
         },
@@ -20468,7 +20468,7 @@
           "path": "experiments/course-04/single-slit-diffraction/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/single-slit-diffraction/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/single-slit-diffraction/README.md",
-          "sha256": "3a323d5f797e10e60241c5696176ebc3c5372921801d99f1dd6031d4a29cb134",
+          "sha256": "0ce53c03f805967ce6b263c7df42fe6303e72dbe383c69a03e983357acbb3d76",
           "bytes": 6288,
           "hash_basis": "utf8-lf"
         },
@@ -20888,7 +20888,7 @@
           "path": "experiments/course-04/abbe-imaging/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/abbe-imaging/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/abbe-imaging/README.md",
-          "sha256": "5e4493d1defd19d888b83e93b9c833582fad13003248c24f9eac407bc4aee7ea",
+          "sha256": "83e0284dda85ff22f807184d65a4a8d124b6cc377afa2fd4184e760040ed0548",
           "bytes": 5900,
           "hash_basis": "utf8-lf"
         },
@@ -21340,7 +21340,7 @@
           "path": "experiments/course-04/holography/README.md",
           "url": "https://github.com/yuxuan6426/general-physics-lab/blob/main/experiments/course-04/holography/README.md",
           "raw_url": "https://raw.githubusercontent.com/yuxuan6426/general-physics-lab/main/experiments/course-04/holography/README.md",
-          "sha256": "a218937984070572b5fcd206d46aff8ae59d73742afe24ffa1074977fce3fba4",
+          "sha256": "91c5b9b9fd13c784afff81d6b0e30c8deba3944e930a06d2c9a1f74a5da77e96",
           "bytes": 5884,
           "hash_basis": "utf8-lf"
         },
